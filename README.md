@@ -14,7 +14,7 @@ Does self-rated health status affect insurance coverage?
 - **Sample**: Adults aged 18–64 (N = 12,469 after cleaning)
 
 > Raw data files (`h243.dat`, `h243su.txt`) are not included in this repository due to file size.  
-> Please download them from the AHRQ website and place them in `data/raw/`.
+> Please download them from the [Box](https://uwmadison.box.com/s/i9c6tags88w2kfvn8fmxkx4tq2cc4w8n) and place them in `data/raw/`. 
 
 ## Project Structure
 
